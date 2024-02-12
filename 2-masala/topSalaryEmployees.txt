@@ -1,0 +1,3 @@
+firstname Ethan , secondname Walker , salary: 3500,expp: 11 , age:34 
+firstname Michael , secondname Brown , salary: 3400,expp: 9 , age:32 
+firstname William , secondname Thomas , salary: 3300,expp: 10 , age:33 
